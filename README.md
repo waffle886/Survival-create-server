@@ -10,7 +10,6 @@
 - [Balm](https://modrinth.com/mod/MBAkmtvl)
 - [Better Advanced Tooltips](https://modrinth.com/mod/iHLDc0eo)
 - [Butchery](https://modrinth.com/mod/6YfOmC9t)
-- [CBC Enhanced Shells](https://www.curseforge.com/projects/1489732)
 - [CBC: Compact Mount](https://modrinth.com/mod/rjti7mm0)
 - [Carpet: NeoForged](https://modrinth.com/mod/XqqOkvZz)
 - [Citadel](https://modrinth.com/mod/XjY0RcQj)
