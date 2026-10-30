@@ -1,5 +1,7 @@
 # A simple create modpack that gives all the experience of create without being a large kitchen sink
-##Mods:
+
+## Server: https://github.com/waffle886/Survival-create-server/Server/survival-create-server.zip
+## Mods:
 - [Advanced Chimneys](https://modrinth.com/mod/r2rWUhnP)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ)
